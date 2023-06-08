@@ -1,0 +1,15 @@
+/Users/a.w/Documents/Programming/Computer Science/C#/#projects/pet-hotel-app/bin/Debug/net7.0/pet-hotel
+/Users/a.w/Documents/Programming/Computer Science/C#/#projects/pet-hotel-app/bin/Debug/net7.0/pet-hotel.deps.json
+/Users/a.w/Documents/Programming/Computer Science/C#/#projects/pet-hotel-app/bin/Debug/net7.0/pet-hotel.runtimeconfig.json
+/Users/a.w/Documents/Programming/Computer Science/C#/#projects/pet-hotel-app/bin/Debug/net7.0/pet-hotel.dll
+/Users/a.w/Documents/Programming/Computer Science/C#/#projects/pet-hotel-app/bin/Debug/net7.0/pet-hotel.pdb
+/Users/a.w/Documents/Programming/Computer Science/C#/#projects/pet-hotel-app/obj/Debug/net7.0/pet-hotel.csproj.AssemblyReference.cache
+/Users/a.w/Documents/Programming/Computer Science/C#/#projects/pet-hotel-app/obj/Debug/net7.0/pet-hotel.GeneratedMSBuildEditorConfig.editorconfig
+/Users/a.w/Documents/Programming/Computer Science/C#/#projects/pet-hotel-app/obj/Debug/net7.0/pet-hotel.AssemblyInfoInputs.cache
+/Users/a.w/Documents/Programming/Computer Science/C#/#projects/pet-hotel-app/obj/Debug/net7.0/pet-hotel.AssemblyInfo.cs
+/Users/a.w/Documents/Programming/Computer Science/C#/#projects/pet-hotel-app/obj/Debug/net7.0/pet-hotel.csproj.CoreCompileInputs.cache
+/Users/a.w/Documents/Programming/Computer Science/C#/#projects/pet-hotel-app/obj/Debug/net7.0/pet-hotel.dll
+/Users/a.w/Documents/Programming/Computer Science/C#/#projects/pet-hotel-app/obj/Debug/net7.0/refint/pet-hotel.dll
+/Users/a.w/Documents/Programming/Computer Science/C#/#projects/pet-hotel-app/obj/Debug/net7.0/pet-hotel.pdb
+/Users/a.w/Documents/Programming/Computer Science/C#/#projects/pet-hotel-app/obj/Debug/net7.0/pet-hotel.genruntimeconfig.cache
+/Users/a.w/Documents/Programming/Computer Science/C#/#projects/pet-hotel-app/obj/Debug/net7.0/ref/pet-hotel.dll
